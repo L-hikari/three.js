@@ -26,7 +26,6 @@
     "__THREE_DEVTOOLS__": "readonly",
     "potpack": "readonly",
     "fflate": "readonly",
-    "OIMO": "readonly",
     "Stats": "readonly",
     "XRWebGLBinding": "readonly",
     "XRWebGLLayer": "readonly",
@@ -41,7 +40,8 @@
     "XRMediaBinding": "readonly",
     "CodeMirror": "readonly",
     "esprima": "readonly",
-    "jsonlint": "readonly"
+    "jsonlint": "readonly",
+    "VideoFrame": "readonly"
   },
   "rules": {
     "no-throw-literal": [
